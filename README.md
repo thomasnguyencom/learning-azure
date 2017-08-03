@@ -1,6 +1,7 @@
 # learning-azure
 
-Azure Developer Workshop (Storage, Cognitive, ML, Stream Analytics, Containers, and Docker)
+# [Part 1] Azure Developer Workshop
+(Storage, Cognitive, ML, Stream Analytics, Containers, and Docker)
 https://mva.microsoft.com/en-US/training-courses/azure-developer-workshop-storage-cognitive-ml-stream-analytics-containers-and-docker-17033?l=qaxmpcPND_5706218965
 
 # 01 - Intro to the Microsoft Cloud
